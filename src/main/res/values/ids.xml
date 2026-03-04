@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtResult" type="id"/>
+    <item name="txtTickets" type="id"/>
+</resources>
